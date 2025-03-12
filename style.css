@@ -19,5 +19,9 @@ h2{
 h3{
     text-transform: lowercase;
     text-align: center;
-    text-decoration: overline; underline;
+    text-decoration: overline;
+}
+
+p{
+    text-align: justify;
 }
